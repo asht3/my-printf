@@ -1,4 +1,4 @@
-#include "my_printf.h"
+#include "../include/my_printf.h"
 #include <string.h>
 
 int my_printf(char * restrict format, ...) {
